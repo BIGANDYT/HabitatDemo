@@ -1,0 +1,66 @@
+﻿---
+ID: "a3456e4a-c1d7-4300-a95c-7968384d7840"
+Parent: "5ecda2e8-aa82-41ee-a1a8-5e1c5f3888d5"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Brother/Promo/Portable-Printer-carousel-fax"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A3456E4AC1D74300A95C7968384D7840.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 150
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b3287750-8fe5-4f5e-aa1f-f1d278b77bdc"
+  Value: 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j1M7fkZ1k3Lu+uxB9AfWpqSctWVFW0R/U9pV39v0u3n8poPOiWTy26x5AO049OlWKKKzEFFFFABRRRQAUUUUAFFFFABRRRQAVU1XQbHXYWjvbO1uo2GCssQcfrVuigDy/wAdfsb/AA7+IEb/AGzw7ZxySZy8A2H/AAr50+Nf/BDv4Y/FOOXy7WzLPnCXVqr4/wCBDmvtuigD8V/jt/wbEWdx9om8PxzWzclWsLncp/4A2a+K/jd/wQU+L/wtuJm09I9ThjyQlxC1vJj64Kn68V/T5UdzaRXsRjmijmRuquoYH8DRcD+Oz4g/sf8AxI+FEsn9teC9cto1JLSQ2xnjPvmPP61+7/8AwbhfsNf8KS+Cdx8RNY0+S11zxRBEkfnJtkiiC8Lg8jg5I9W9q/QXxF+z74P8TzrLdaDp/mKc7o4lUn68V1Oi6JaeHNLhsrG3itbW3XbHFGu1VH0oeoFqiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 3181
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 150 x 150
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 150
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T170532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T170532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T170533Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

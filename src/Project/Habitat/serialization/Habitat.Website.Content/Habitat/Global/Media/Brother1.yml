@@ -1,0 +1,28 @@
+﻿---
+ID: "65d49e0a-2b7d-4b42-92f5-b44b58fd3fe6"
+Parent: "ea13174a-b43e-4f68-b474-b41188771a9e"
+Template: "f0369e1a-9030-4a05-a09c-ef09b664ed27"
+Path: /sitecore/content/Habitat/Global/Media/Brother1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T164242Z
+    - ID: "302c9f8d-f703-4f76-a4ab-73d222648232"
+      Hint: MediaDescription
+      Value: Brother offers comprehensive and flexible Managed Print Services (MPS), built around the specific needs of your business. Reduce the cost and complexity of business printing.&nbsp;
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "63dda48b-b0cb-45a7-9a1b-b26ddb41009b"
+      Hint: MediaTitle
+      Value: Managed Print Services
+    - ID: "9f51dead-ad6e-41c2-9759-7be17eb474a4"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{9B624161-75BA-4B5C-8308-AA4A49E62ADB}" alt="" height="500" width="2077" hspace="" vspace="" />

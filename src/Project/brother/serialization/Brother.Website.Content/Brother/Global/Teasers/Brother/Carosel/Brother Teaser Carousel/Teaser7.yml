@@ -1,0 +1,21 @@
+﻿---
+ID: "4a14b585-833a-4995-9742-0186c31799d6"
+Parent: "2ae651ab-7acf-4fd2-8aad-993045583d67"
+Template: "c7d9d293-4ef8-4380-8e10-c4632e729f39"
+Path: /sitecore/content/Brother/Global/Teasers/Brother/Carosel/Brother Teaser Carousel/Teaser7
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f6b5546-e0ab-4487-81de-640c1aa1b65b"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{299265E9-0472-4207-A4A8-8C04024A4BA4}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180911T174132Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Fax

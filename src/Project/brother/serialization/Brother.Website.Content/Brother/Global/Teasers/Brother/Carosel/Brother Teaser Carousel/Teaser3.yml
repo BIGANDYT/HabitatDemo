@@ -1,0 +1,25 @@
+﻿---
+ID: "3110890a-dfac-4974-8254-a74a1fab65ca"
+Parent: "2ae651ab-7acf-4fd2-8aad-993045583d67"
+Template: "c7d9d293-4ef8-4380-8e10-c4632e729f39"
+Path: /sitecore/content/Brother/Global/Teasers/Brother/Carosel/Brother Teaser Carousel/Teaser3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f6b5546-e0ab-4487-81de-640c1aa1b65b"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{AC7F31AC-0101-4806-9184-D85179370731}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T170418Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Labelling
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "a3f7406f-c91c-4672-92b0-d497f0e23c28"
+Parent: "d0c3b247-497a-4534-8064-d188846e517f"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Brother/Global/Dictionary/Maps/Map
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160406T235408Z

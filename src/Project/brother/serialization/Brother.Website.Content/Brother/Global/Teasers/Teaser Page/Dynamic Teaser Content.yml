@@ -1,0 +1,18 @@
+﻿---
+ID: "091883d4-c751-4cd8-b6c6-6c54de9aca95"
+Parent: "a31acb07-5dc9-4afb-a622-70f3ffb9444f"
+Template: "f5f30cdc-9003-4015-84ec-c3a7e3e50d5e"
+Path: /sitecore/content/Brother/Global/Teasers/Teaser Page/Dynamic Teaser Content
+DB: master
+SharedFields:
+- ID: "9e942565-677f-491c-a0ac-6b930e37342a"
+  Hint: Active
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150903T121817Z

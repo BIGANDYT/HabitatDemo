@@ -1,0 +1,29 @@
+﻿---
+ID: "ee68a9e1-55de-4f39-a9bb-ec35ab4efef9"
+Parent: "b9244143-3bfb-4ef0-b3ac-8000712915d6"
+Template: "ac7394d5-2aa7-4fdb-a7d8-b1b87f9fa661"
+Path: /sitecore/content/Brother/Global/Links/Footer Menu/Right
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150910T105359Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 右
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170323T054646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

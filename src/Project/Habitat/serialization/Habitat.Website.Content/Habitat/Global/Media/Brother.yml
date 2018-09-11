@@ -1,0 +1,14 @@
+﻿---
+ID: "7ba1e92e-5923-410e-be0c-de6203f373c8"
+Parent: "ea13174a-b43e-4f68-b474-b41188771a9e"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Habitat/Global/Media/Brother
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180910T162217:636721933372782568Z"

@@ -1,0 +1,25 @@
+﻿---
+ID: "9827c943-7cc1-4fa1-bc3d-a341d23ab3df"
+Parent: "e417c87f-a578-4671-9a10-b16f4e37b880"
+Template: "c7d9d293-4ef8-4380-8e10-c4632e729f39"
+Path: /sitecore/content/Habitat/Global/Teasers/Brother/Carosel/Brother Teaser Carousel/Teaser5
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f6b5546-e0ab-4487-81de-640c1aa1b65b"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{55B135FC-3E33-4BE6-9B71-A73820E702B8}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T171601Z
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Supplies
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

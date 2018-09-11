@@ -1,0 +1,22 @@
+﻿---
+ID: "5586f9ab-be9f-49bc-94f0-9e841429cb95"
+Parent: "e17ad7e3-d488-47d8-96bb-91391b69c361"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: /sitecore/content/Brother/Home/_Local
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{F9F4FC05-98D0-4C62-860F-F08AE7F0EE25}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180911T183953Z

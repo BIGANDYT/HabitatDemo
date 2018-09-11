@@ -1,0 +1,18 @@
+﻿---
+ID: "d9d90653-42fb-45a9-8a41-564a30f7b274"
+Parent: "80cae5c8-efa7-41d3-bc14-6d8a8b97076b"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Brother/Global/Dictionary/News/News Teaser
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160406T234249Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous

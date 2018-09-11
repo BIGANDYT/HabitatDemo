@@ -1,0 +1,24 @@
+﻿---
+ID: "5616f8d8-5053-42e1-a3c8-0f41084f1aa0"
+Parent: "56382020-7197-4027-a219-b7d22d227585"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Brother/Global/Media/Brother
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T164215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "72ea8682-24d2-4beb-951c-3e2164974105"
+      Hint: MediaSelector
+      Type: Multilist
+      Value: |
+        {65D49E0A-2B7D-4B42-92F5-B44B58FD3FE6}
+        {0D598782-0898-4D27-96A4-E6D4834F61F1}

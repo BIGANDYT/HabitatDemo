@@ -1,0 +1,31 @@
+﻿---
+ID: "541bcd7a-e69a-4bd9-bfdd-084cbd30e7d2"
+Parent: "acbf0c71-9d00-4cd0-9775-73fbdf0b7dd6"
+Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
+Path: "/sitecore/content/Brother/Home/Supplies/Anti-Counterfeit"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: "Anti-Counterfeit"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180910T220708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: "Anti-Counterfeit"
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: "Anti-Counterfeit"
