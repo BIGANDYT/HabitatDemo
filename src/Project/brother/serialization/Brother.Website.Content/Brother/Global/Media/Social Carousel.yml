@@ -1,0 +1,18 @@
+﻿---
+ID: "e273be68-9dbc-420f-9de9-4420f2dd0044"
+Parent: "56382020-7197-4027-a219-b7d22d227585"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Brother/Global/Media/Social Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T083835Z
+    - ID: "72ea8682-24d2-4beb-951c-3e2164974105"
+      Hint: MediaSelector
+      Type: Multilist
+      Value: "{5C79DB19-DC5E-4CA8-8FBB-F43506C3D9F4}"

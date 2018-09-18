@@ -4,6 +4,30 @@ Parent: "e17ad7e3-d488-47d8-96bb-91391b69c361"
 Template: "8ee208f9-a6a6-41e2-88a0-c188737a178c"
 Path: /sitecore/content/Brother/Home/About Brother
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

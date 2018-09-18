@@ -11,6 +11,29 @@ SharedFields:
 - ID: "7d24e54f-5c16-4314-90c9-6051aa1a7da1"
   Hint: Parameters Template
   Value: "{8373E4E5-C79C-4123-9284-BABD9601C565}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |

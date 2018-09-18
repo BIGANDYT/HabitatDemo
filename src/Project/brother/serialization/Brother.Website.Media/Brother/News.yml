@@ -1,0 +1,42 @@
+﻿---
+ID: "f4181ae6-1303-4885-96ae-b0b823bd612c"
+Parent: "b7d743bc-1f07-4e71-8715-5bd3cfea4510"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Brother/News
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180913T193813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

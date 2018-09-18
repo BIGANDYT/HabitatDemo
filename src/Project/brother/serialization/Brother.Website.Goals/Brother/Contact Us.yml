@@ -1,0 +1,42 @@
+﻿---
+ID: "03386d65-816f-4c5e-b957-8b4e3a2ff3ab"
+Parent: "4447182a-448b-417d-aff2-89a88f9658ca"
+Template: "475e9026-333f-432d-a4dc-52e03b75cb6b"
+Path: /sitecore/system/Marketing Control Panel/Goals/Brother/Contact Us
+DB: master
+SharedFields:
+- ID: "33ae0e84-74a0-437f-ab2b-859dfa96f6c9"
+  Hint: Points
+  Value: 50
+- ID: "71ebdebd-9560-48c6-a66f-e17fc018232c"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{A98BA196-9226-4BCD-A40B-1DC789A113B8}">
+        <conditions>
+          <condition
+            id="{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}"
+            uid="F4ED2FBE463F4EE8828355492B4EB808"
+            PageId="{00BA5E70-CF7F-4A20-8CB3-EA2D03BF9BC0}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{689E2994-4656-4C58-9112-7826CB46EE69}"
+- ID: "ac6ba888-4213-43bd-b787-d8da2b6b881f"
+  Hint: Name
+  Value: Contact Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T081635Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}"

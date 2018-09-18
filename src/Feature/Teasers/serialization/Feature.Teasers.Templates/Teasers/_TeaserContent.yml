@@ -12,6 +12,29 @@ SharedFields:
   Hint: __Base template
   Type: tree list
   Value: "{C80D124B-B9AC-432E-8C26-DBF3A7F18D20}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{FF12FA13-D8E7-4806-8251-D7819B7AAE5A}"

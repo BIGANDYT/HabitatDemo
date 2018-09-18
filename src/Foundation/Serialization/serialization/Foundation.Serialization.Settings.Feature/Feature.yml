@@ -1,22 +1,37 @@
 ﻿---
-ID: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
+ID: "c0075202-5b27-4d19-b298-f29abe5577e1"
 Parent: "087e1ea5-6280-4575-9e70-85b588db91b2"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/system/Settings/Feature
 DB: master
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: applications/32x32/folder_cubes.png
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20160210T142053Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\admin
+      Value: "20180917T125444:636727856848550072Z"

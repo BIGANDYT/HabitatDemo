@@ -5,6 +5,29 @@ Template: "49c651ba-4004-40a9-9b0f-e95d0573f3ae"
 Path: /sitecore/content/Habitat/Home/Modules/Feature/Demo/Fake Referrer
 DB: master
 SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 - ID: "d28efe17-c491-47c0-b62d-934dc9da38a4"
   Hint: Referrer
   Value: "http://www.bing.com/search?q=Sitecore+Habitat&qs=n&form=QBLH&sp=-1&pq=sitecore+habitat&sc=3-17&sk=&cvid=46997EBAFE7C4B18B9C0C5140789A0EB"

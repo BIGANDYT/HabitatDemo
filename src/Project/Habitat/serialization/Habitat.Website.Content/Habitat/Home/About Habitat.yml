@@ -11,20 +11,21 @@ SharedFields:
   Value: |
     <tracking>
       <profile
-        id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}"
-        name="Focus">
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
         <key
-          name="Background"
-          value="0" />
+          name="Business"
+          value="5" />
         <key
-          name="Practical"
-          value="0" />
+          name="Products"
+          value="2" />
         <key
-          name="Process"
-          value="0" />
+          name="Supplies"
+          value="1" />
         <key
-          name="Scope"
-          value="0" />
+          name="Support"
+          value="1" />
       </profile>
     </tracking>
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

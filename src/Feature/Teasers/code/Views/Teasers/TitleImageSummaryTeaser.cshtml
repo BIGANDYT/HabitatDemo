@@ -8,9 +8,9 @@
   if (!Model?.Item?.IsDerived(Templates.TeaserContent.ID) ?? true)
   {
     @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.TeaserContent.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
-    return;
-  }
-  var backgroundClass = Model.Rendering.GetBackgroundClass();
+        return;
+    }
+    var backgroundClass = Model.Rendering.GetBackgroundClass();
 }
 
 

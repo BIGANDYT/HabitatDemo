@@ -1,0 +1,26 @@
+﻿---
+ID: "5c79db19-dc5e-4ca8-8fbb-f43506c3d9f4"
+Parent: "56382020-7197-4027-a219-b7d22d227585"
+Template: "f1c095e2-b3e0-46d0-b838-02a9e8b880d9"
+Path: /sitecore/content/Brother/Global/Media/InkBurst
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T083847Z
+    - ID: "2628705d-9434-4448-978c-c3bf166fa1eb"
+      Hint: MediaVideoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{22736DB6-5119-44CB-B8B9-01EFF38B77A7}" />
+    - ID: "302c9f8d-f703-4f76-a4ab-73d222648232"
+      Hint: MediaDescription
+      Value: |
+        <p>Find out more about the importance of recycling ink cartridges</p>
+        <p><a href="~/link.aspx?_id=3C0079908180402D90538A2A9B814604&amp;_z=z">Recycling &gt;</a></p>
+    - ID: "63dda48b-b0cb-45a7-9a1b-b26ddb41009b"
+      Hint: MediaTitle
+      Value: Recycle Ink Cartridges

@@ -4,6 +4,30 @@ Parent: "6e375687-3607-4fc3-8744-ee0bd0b14ca9"
 Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
 Path: /sitecore/content/Brother/Home/Business Solutions/Business Transformation Solutions
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{40E98358-CA0F-4BB6-8AF2-2F54A60D111B}"
+        name="BrotherProfiles"
+        presets="business|100||">
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Support"
+          value="1" />
+        <key
+          name="Products"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

@@ -4,6 +4,30 @@ Parent: "d4ce5263-0aad-4540-bc85-9477f8529745"
 Template: "55a5bdad-eb69-40f5-8195-cda182e48ee4"
 Path: "/sitecore/system/Settings/Feature/Media/Background Types/bg-primary"
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

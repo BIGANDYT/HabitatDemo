@@ -15,6 +15,29 @@ SharedFields:
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {A16B74E9-01B8-439C-B44E-42B3FB2EE14B}
     {A1CBA309-D22B-46D5-80F8-2972C185363F}
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

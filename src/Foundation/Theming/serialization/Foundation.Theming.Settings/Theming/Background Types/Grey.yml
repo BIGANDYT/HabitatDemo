@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "cf1e34b0-27e7-4861-becd-c0bc58295f77"
   Hint: Class
-  Value: "bg-transparant"
+  Value: "bg-grey"
 Languages:
 - Language: en
   Versions:

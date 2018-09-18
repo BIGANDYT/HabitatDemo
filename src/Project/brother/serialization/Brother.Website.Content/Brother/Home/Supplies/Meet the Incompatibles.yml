@@ -5,6 +5,23 @@ Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
 Path: /sitecore/content/Brother/Home/Supplies/Meet the Incompatibles
 DB: master
 SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{40E98358-CA0F-4BB6-8AF2-2F54A60D111B}"
+        name="BrotherProfiles"
+        presets="supplies|100||">
+        <key
+          name="Supplies"
+          value="5" />
+        <key
+          name="Business"
+          value="0" />
+      </profile>
+    </tracking>
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300

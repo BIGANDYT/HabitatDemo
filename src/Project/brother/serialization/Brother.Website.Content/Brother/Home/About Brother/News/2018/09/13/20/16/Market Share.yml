@@ -1,0 +1,90 @@
+﻿---
+ID: "4bbb8961-e416-4ca2-adf1-3b8fbe510125"
+Parent: "49a12d24-bef2-4e4a-80c6-4cc78145df37"
+Template: "b69277ad-e917-4b9f-9136-a12e0a3e462f"
+Path: /sitecore/content/Brother/Home/About Brother/News/2018/09/13/20/16/Market Share
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20180521T211900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brother increases share of Managed Print market by 200%
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180913T201652Z
+    - ID: "3437eaac-6ee8-460b-a33d-da1f714b5a93"
+      Hint: NewsImage
+      Value: |
+        <image mediaid="{30C22099-62B7-4B7F-B4F1-5710CB775BC0}" alt="" height="210" width="360" hspace="" vspace=""></image>
+    - ID: "4a59d072-5b41-4a79-a157-2b2ccac10f2b"
+      Hint: TeaserTitle
+      Value: Market Share
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: |
+        Brother is increasing its position in the channel-led Managed Print Services (MPS) market as it continues to enhance its offering, as revealed in the Channel MPS Market Report from ICT and business analyst Quocirca.&nbsp;&nbsp;<br />
+        <br />
+        According to Brother, in the four years ending March 2017, the number of its machines under contract across Europe grew by an average annual rate of 200%.<br />
+        <br />
+        Noting the print and technology specialist’s success in retail, healthcare and banking markets, the channels to Managed Print Services 2018 report stated that Brother has “created an attractive proposition for its reseller partners and their end-user customers”.&nbsp;<br />
+        <br />
+        The analyst expects Brother to gain further traction as it continues to ramp up its MPS ability.<br />
+        <br />
+        Hassan Masaud at Brother UK said: “The fact that Brother has grown MPS by 200% is fantastic, but our strategic focus looking ahead is to make it as easy as possible for channel partners to run a managed print offering, whether they are targeting SOHO, SMB, corporate or enterprise end users.<br />
+        <br />
+        “With our ‘At your side’ ethos front of mind, we have been conducting a great deal of insight, development and industry feedback work to establish how we can build on the many exemplary service elements singled out by Quocirca. This will empower us to best support channel reseller partners by making Brother MPS yet more flexible, supportive, profitable and easy.”&nbsp;<br />
+        <br />
+        Brother MPS is sold exclusively through channel partners and is built on four key pillars of flexibility, simplicity, speed and availability of experts.&nbsp;<br />
+        <br />
+        Quocirca noted that Brother:<br />
+        <br />
+        provides expert resources, including pre-sales technical support<br />
+        project management&nbsp;<br />
+        service delivery teams to enable partners and their customers to make the most of managed print.&nbsp;<br />
+        Philip White, European Managed Print Sales Manager said: “We know that channel organisations are frustrated by margins, slow response times, a lack of vertical market experience and lead generation support. In response, our MPS offer has a rigorous focus on lead generation and has been fine-tuned to deliver improved margin against transactional sales by giving resellers the opportunity to earn revenue on up to nine streams, including hardware, supplies, software and services.<br />
+        <br />
+        “The Quocirca report identifies the strengths of the Brother MPS offer and recognises our investment in tools and resources to support the channel.&nbsp; We will continue this strategy of commitment and investment in the channel to ensure that together Brother and channel partners can continue to meet the many and varied needs of the customer.”&nbsp;<br />
+        <br />
+        Read the full report here.<br />
+        <br />
+        Find out more information about Brother Managed Print Services.
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: Brother increases share of Managed Print market
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: Finance
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Market Share

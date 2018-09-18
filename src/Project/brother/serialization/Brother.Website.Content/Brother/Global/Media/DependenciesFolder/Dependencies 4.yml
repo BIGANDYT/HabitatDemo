@@ -4,6 +4,30 @@ Parent: "8c180976-6e55-4df4-890d-0a7b17cb0a14"
 Template: "f0369e1a-9030-4a05-a09c-ef09b664ed27"
 Path: /sitecore/content/Brother/Global/Media/DependenciesFolder/Dependencies 4
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

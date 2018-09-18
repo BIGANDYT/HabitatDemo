@@ -4,6 +4,30 @@ Parent: "876b43b4-6eff-4e82-8450-5974b95ef94c"
 Template: "8ff3d369-a508-4d2f-84a5-9b6c6bf5e537"
 Path: /sitecore/content/Habitat/Home/Modules/Feature/Navigation/External Link
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

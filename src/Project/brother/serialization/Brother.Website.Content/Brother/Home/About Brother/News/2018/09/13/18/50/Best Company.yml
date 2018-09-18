@@ -1,0 +1,76 @@
+﻿---
+ID: "5b9eabe7-488f-4244-b562-d46258d77ca6"
+Parent: "898cf40a-39e3-4ee0-92a5-fd11cac675e0"
+Template: "b69277ad-e917-4b9f-9136-a12e0a3e462f"
+Path: /sitecore/content/Brother/Home/About Brother/News/2018/09/13/18/50/Best Company
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20180706T205600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brother UK named best company to work for
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180913T185004Z
+    - ID: "3437eaac-6ee8-460b-a33d-da1f714b5a93"
+      Hint: NewsImage
+      Value: |
+        <image mediaid="{532BF9FB-0DD4-4948-80C2-09F378F29F33}" alt="" height="210" width="360" hspace="" vspace="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: |
+        We&rsquo;re celebrating after being named Best Company to Work For at last night&rsquo;s CRN Sales and Marketing Awards, which recognise the achievements of organisations and individuals across the IT channel sector.<br />
+        <br />
+        Brother UK picked up the award for being a great place to work, ensuring high levels of staff motivation, having a strong company culture, and an impressive CSR programme.<br />
+        <br />
+        This award is one of a string of accolades we&rsquo;ve picked up for being a great employer, including the Investors in People (IIP) Platinum status and a highly-regarded Princess Royal Training Award for our excellence in employee training and development.<br />
+        <br />
+        Louise Marshall, infrastructure and shared services director at Brother UK, said: &ldquo;The success of any company is down to the quality of its people which is why we invest so heavily in their well being.<br />
+        <br />
+        &ldquo;Alongside flexible working initiatives, an industry-leading community engagement programme, equal opportunities and a clear company culture, we also have an award-winning learning and development scheme that not only challenges our staff to acquire new skills but rewards them for doing so too.<br />
+        <br />
+        &ldquo;2018 marks our 50th year of business in the UK and we believe that making Brother an environment where staff are happy and can flourish will be key to our success for the next 50 years.&rdquo;
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: Brother UK named best company to work for
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: Our People
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: News Article

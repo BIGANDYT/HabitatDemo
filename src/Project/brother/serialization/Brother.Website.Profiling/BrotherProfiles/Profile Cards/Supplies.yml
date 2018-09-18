@@ -1,0 +1,30 @@
+﻿---
+ID: "b2a37575-87fc-4a83-aa4f-23908e64c3ff"
+Parent: "f70aa16d-bc8b-4119-9a5e-7f5d07e10a22"
+Template: "0fc09ea4-8d87-4b0e-a5c9-8076ae863d9c"
+Path: /sitecore/system/Marketing Control Panel/Profiles/BrotherProfiles/Profile Cards/Supplies
+DB: master
+SharedFields:
+- ID: "85970ab7-22ea-4206-be86-c0167178860b"
+  Hint: Profile Card Value
+  Value: |
+    <tracking>
+      <profile id="{40E98358-CA0F-4BB6-8AF2-2F54A60D111B}" name="BrotherProfiles">
+        <key name="Supplies" value="5" />
+        <key name="Business" value="1" />
+        <key name="Support" value="1" />
+        <key name="Products" value="1" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Fields:
+  - ID: "a26fc256-1db0-44aa-ba3d-1c830bf882a2"
+    Hint: Name
+    Value: Supplies
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180917T154251Z

@@ -4,6 +4,30 @@ Parent: "ea13174a-b43e-4f68-b474-b41188771a9e"
 Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
 Path: /sitecore/content/Habitat/Global/Media/Carousel
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: da
   Versions:

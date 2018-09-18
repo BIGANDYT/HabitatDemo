@@ -1,0 +1,42 @@
+﻿---
+ID: "10be4d26-a3ea-4ba1-8cd1-f9ff0dc9f117"
+Parent: "56382020-7197-4027-a219-b7d22d227585"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Brother/Global/Media/Printers
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180917T082134Z
+    - ID: "72ea8682-24d2-4beb-951c-3e2164974105"
+      Hint: MediaSelector
+      Type: Multilist
+      Value: "{901DA8E8-174C-4514-9D3E-3092CFCFDEF0}"

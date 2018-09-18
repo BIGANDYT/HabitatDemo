@@ -28,6 +28,29 @@ SharedFields:
 - ID: "71962360-10d8-4b98-bb8d-57660ce11127"
   Hint: Register Page
   Value: /sitecore/content/Habitat/Home/Register
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 - ID: "b128e2b3-3865-4f1c-a147-5f248676d3f5"
   Hint: After Login Page
   Value: /sitecore/content/Habitat/Home/Edit Profile
@@ -112,7 +135,6 @@ Languages:
       Hint: OrganisationAddress
       Value: |
         2320 Marinship Way
-        Sausalito, CA 94965
         USA
     - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
       Hint: Logo

@@ -4,6 +4,10 @@ Parent: "ffbd2e89-3b38-47eb-884d-859b9ffdabb7"
 Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
 Path: /sitecore/content/Brother/Home/About Brother/Recycling
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:

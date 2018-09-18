@@ -4,6 +4,30 @@ Parent: "a4e0a6fc-0415-423c-85db-a735f044c504"
 Template: "773a96f7-2752-4da2-a2f5-6119a21a24f3"
 Path: /sitecore/content/Brother/Global/Social/sitecorehabitat
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: da
   Versions:

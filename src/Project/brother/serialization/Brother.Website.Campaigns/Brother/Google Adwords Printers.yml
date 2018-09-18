@@ -1,0 +1,50 @@
+﻿---
+ID: "23bb95f8-b8ca-47cd-89d1-8f556ea018e2"
+Parent: "014a94ea-cba8-4b33-a649-51c5a859f907"
+Template: "94fd1606-139e-46ee-86ff-bc5bf3c79804"
+Path: /sitecore/system/Marketing Control Panel/Campaigns/Brother/Google Adwords Printers
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{689E2994-4656-4C58-9112-7826CB46EE69}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f47d1b4-bcb4-4f7f-9065-6ecb46aab9a1"
+      Hint: Title
+      Value: Google Adwords Printers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180917T070747Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}"
+    - ID: "4c1bf83b-06e2-4b07-ad16-0e65d95e356e"
+      Hint: Channel
+      Value: "{67150678-B200-44BB-BBAE-1D7B901D0860}"

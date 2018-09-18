@@ -1,0 +1,45 @@
+﻿---
+ID: "40e98358-ca0f-4bb6-8af2-2f54a60d111b"
+Parent: "12bd7e35-437b-449c-b931-23cfa12c03d8"
+Template: "8e0c1738-3591-4c60-8151-54abcc9807d1"
+Path: /sitecore/system/Marketing Control Panel/Profiles/BrotherProfiles
+DB: master
+BranchID: "07624a03-bb2f-45d8-abe1-15e2b1705ff3"
+SharedFields:
+- ID: "5d9fe5d7-4c45-4a98-a1f5-4796a6da428b"
+  Hint: Name
+  Value: BrotherProfiles
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{67759D75-62E4-4945-8199-913BBECD1879}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180917T154239Z

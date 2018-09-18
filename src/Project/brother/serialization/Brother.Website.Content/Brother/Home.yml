@@ -15,21 +15,21 @@ SharedFields:
   Value: |
     <tracking>
       <profile
-        id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}"
-        name="Focus"
-        presets="konstantin|100||">
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
         <key
-          name="Background"
-          value="9" />
+          name="Business"
+          value="5" />
         <key
-          name="Practical"
-          value="8" />
+          name="Products"
+          value="2" />
         <key
-          name="Process"
-          value="7" />
+          name="Supplies"
+          value="1" />
         <key
-          name="Scope"
-          value="3" />
+          name="Support"
+          value="1" />
       </profile>
     </tracking>
 Languages:
@@ -64,8 +64,224 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{7F9B5D09-71E9-4446-BF26-189B760A066D}"
+              uid="{72298498-395C-49DF-AF3E-1717F3BD52A0}"
               p:before="*"
+              s:ds="{36BE197A-BEB3-4A16-8E53-277A9B32CC05}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-1_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
+            <r
+              uid="{292CD674-9911-4E5D-ADA0-ACB1DFC12F5F}"
+              p:after="r[@uid='{72298498-395C-49DF-AF3E-1717F3BD52A0}']"
+              s:ds="{516300CA-97CA-445A-81B9-32319152C9BE}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-2_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
+            <r
+              uid="{3B1EC98F-A308-4620-8A5A-CDAF8A62FDAF}"
+              p:after="r[@uid='{292CD674-9911-4E5D-ADA0-ACB1DFC12F5F}']"
+              s:ds="{6013306A-3C77-41B5-9DA8-E3954871839E}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-3_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
+            <r
+              uid="{CFC854A0-B06E-407E-B0CE-074CF4F13932}"
+              p:after="r[@uid='{3B1EC98F-A308-4620-8A5A-CDAF8A62FDAF}']"
+              s:ds="{D285CF69-486C-4BDE-B4B0-F523FA987C2A}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-1_d180d469-533f-463c-b817-8d256484d2c4">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{726C3667-EA3A-46F0-9C49-F88DD0AE3452}"
+                    s:name="Business Profile">
+                    <conditions>
+                      <condition
+                        uid="7922737808844942BEBA22D949C58B50"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Business" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="9660AB86222A493897EDCCCFDE274F3E"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{03982E21-5FDD-4751-8D55-64B9FCBC1264}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{2DB27D5A-BE8F-436A-9C85-7DAF697E33BB}"
+                    s:name="Supplies Profile">
+                    <conditions>
+                      <condition
+                        uid="F9028832CB02446CA1BA53CE4BDC04B1"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Supplies" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="C44556303FB14DAEBB5FB26A7165E071"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{7C44095B-83E9-496F-A2ED-2929982DAB62}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{535AE15B-29A9-44CC-8177-A6BBD4EAFD9D}"
+                    s:name="Printer Campaign">
+                    <actions>
+                      <action
+                        uid="4B8D0C86EF5A4D4DBDAB236BBF47E099"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{E6C59E20-9173-4CA1-8036-64E1DF277B0F}" />
+                    </actions>
+                    <conditions>
+                      <condition
+                        uid="E3CCB5F553FA4F5597589A309E0B2508"
+                        s:id="{D379525C-4DE6-4738-89ED-60CC0B8F91E5}"
+                        s:CampaignId="{23BB95F8-B8CA-47CD-89D1-8F556EA018E2}" />
+                    </conditions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="9B84759C0ADD4DA2B8188BA49FAA4DE8"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{D610FE9C-D086-4B01-BA0B-B4490F6F6DCE}"
+              p:after="r[@uid='{CFC854A0-B06E-407E-B0CE-074CF4F13932}']"
+              s:ds="{8AA68581-53BB-4218-AB67-D2B139FC44F6}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-3_d180d469-533f-463c-b817-8d256484d2c4">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{F76CCE2C-C846-46C1-A69E-FA81487191DC}"
+                    s:name="Supplies Profile">
+                    <conditions>
+                      <condition
+                        uid="551DC412EC0C44DEBF6C03AFC48522D5"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Supplies" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="D5DA8E02C4C74D3EA9204B3BE03F164A"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{25A2BD1E-0C2E-4243-A24A-372EBB8BF5EA}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="848B338A824746DD8F75CDD056DE0D19"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{07AC15DE-EA39-4FB8-8A33-5F9D293024B8}"
+              p:after="r[@uid='{D610FE9C-D086-4B01-BA0B-B4490F6F6DCE}']"
+              s:ds="{BB901DDB-957E-47E1-9DCB-5EAEDA6EB57A}"
+              s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-2_d180d469-533f-463c-b817-8d256484d2c4">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{73CCFB92-EA95-44FB-9C1E-6FA56DAE66E5}"
+                    s:name="Business Camapign">
+                    <conditions>
+                      <condition
+                        uid="B656E8174456408C919F37D4F1C78DEE"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Business" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="63B1AB689FED4A7DBD0DF009177018E5"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{985DB71F-DFD6-4ABC-A50D-E8BA52748573}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{9A46AB3D-4EBD-44DF-AD7E-9CE8AC50FEE7}"
+                    s:name="Supplies Campaign">
+                    <conditions>
+                      <condition
+                        uid="41670F6139FA4D7BA2A7E090501AF8AE"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Supplies" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="2CB9E50021504EDEB38A3909CC20C5A3"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{A3939D85-EF2A-495C-A6DB-38055E449325}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{FFBB1ADF-F260-4084-8524-0697A8DBBF7E}"
+                    s:name="Printers">
+                    <actions>
+                      <action
+                        uid="0A9762346EE44436875201719A3D8151"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{A22D928E-CC97-4862-AA32-ECBDCCB5538C}" />
+                    </actions>
+                    <conditions>
+                      <condition
+                        uid="7E279F23B8E54C5AA98CC08B754A350C"
+                        s:id="{D379525C-4DE6-4738-89ED-60CC0B8F91E5}"
+                        s:CampaignId="{23BB95F8-B8CA-47CD-89D1-8F556EA018E2}" />
+                    </conditions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="9C95F0BB07B54AB6B2E93D6898C56736"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{071EC511-E2CD-4999-8CAC-4FD88A6A62AF}"
+              p:after="r[@uid='{07AC15DE-EA39-4FB8-8A33-5F9D293024B8}']"
+              s:ds="{4BBB8961-E416-4CA2-ADF1-3B8FBE510125}"
+              s:id="{96EFEFFC-4D53-4F29-913E-84EDBFBE4DAB}"
+              s:ph="/page-layout/section_fccec637-fa4f-48c7-a1e1-d8d6bdcbfe85/col-narrow-3_7f9b5d09-71e9-4446-bf26-189b760a066d" />
+            <r
+              uid="{E79FDEAF-4ECE-482C-96F6-305063EBBE6E}"
+              p:after="r[@uid='{071EC511-E2CD-4999-8CAC-4FD88A6A62AF}']"
+              s:ds="{9BD698A2-7906-400D-B6FF-D2A154D7D7EC}"
+              s:id="{96EFEFFC-4D53-4F29-913E-84EDBFBE4DAB}"
+              s:ph="/page-layout/section_fccec637-fa4f-48c7-a1e1-d8d6bdcbfe85/col-narrow-2_7f9b5d09-71e9-4446-bf26-189b760a066d" />
+            <r
+              uid="{643FB64D-6B2D-47E0-8CFD-D9648839A83B}"
+              p:after="r[@uid='{E79FDEAF-4ECE-482C-96F6-305063EBBE6E}']"
+              s:ds="{5B9EABE7-488F-4244-B562-D46258D77CA6}"
+              s:id="{96EFEFFC-4D53-4F29-913E-84EDBFBE4DAB}"
+              s:ph="/page-layout/section_fccec637-fa4f-48c7-a1e1-d8d6bdcbfe85/col-narrow-1_7f9b5d09-71e9-4446-bf26-189b760a066d" />
+            <r
+              uid="{7F9B5D09-71E9-4446-BF26-189B760A066D}"
+              p:after="r[@uid='{643FB64D-6B2D-47E0-8CFD-D9648839A83B}']"
               s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}"
               s:ph="/page-layout/section_fccec637-fa4f-48c7-a1e1-d8d6bdcbfe85" />
             <r
@@ -79,48 +295,47 @@ Languages:
               s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
               s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_d128e236-450b-4df2-b076-223abaa55353" />
             <r
-              uid="{A91D3CC6-2B4A-4276-B403-43B7132897CC}"
-              p:after="r[@uid='{B48345D3-E8BF-4E2F-BFDD-4398C5F594EC}']"
-              s:ds="{3C007990-8180-402D-9053-8A2A9B814604}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-3_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
-            <r
-              uid="{F2B0680A-8277-4D2A-A769-AAC49762EC97}"
-              p:after="r[@uid='{A91D3CC6-2B4A-4276-B403-43B7132897CC}']"
-              s:ds="{98D2562B-DE8A-467D-8116-46CFFD813E15}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-2_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
-            <r
-              uid="{42C8379B-533A-4AAF-98FC-B8772F4A7A16}"
-              p:after="r[@uid='{F2B0680A-8277-4D2A-A769-AAC49762EC97}']"
-              s:ds="{A2790C95-F3D2-4EF0-87A7-E40A6E35E929}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-1_d0ea1425-8d1a-49e0-a837-6c4ff923dddf" />
-            <r
-              uid="{7A830D25-A0EE-4FBE-98C3-11281A2E973A}"
-              p:after="r[@uid='{42C8379B-533A-4AAF-98FC-B8772F4A7A16}']"
-              s:ds="{ACBF0C71-9D00-4CD0-9775-73FBDF0B7DD6}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-3_d180d469-533f-463c-b817-8d256484d2c4" />
-            <r
-              uid="{C92F9FD2-0BB4-4730-BA87-5B636322CDA9}"
-              p:after="r[@uid='{7A830D25-A0EE-4FBE-98C3-11281A2E973A}']"
-              s:ds="{6E375687-3607-4FC3-8744-EE0BD0B14CA9}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-2_d180d469-533f-463c-b817-8d256484d2c4" />
-            <r
-              uid="{E4DDDA10-C1FC-491A-B626-415AB876E2CE}"
-              p:after="r[@uid='{C92F9FD2-0BB4-4730-BA87-5B636322CDA9}']"
-              s:ds="{1CB53612-836E-4793-9008-E4D3FF06B478}"
-              s:id="{07AB411C-F894-4144-B069-48EF67431D32}"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-narrow-1_d180d469-533f-463c-b817-8d256484d2c4" />
-            <r
               uid="{88558DBE-63D1-444E-A276-DF79801BAF7E}"
-              p:after="r[@uid='{E4DDDA10-C1FC-491A-B626-415AB876E2CE}']"
+              p:after="r[@uid='{B48345D3-E8BF-4E2F-BFDD-4398C5F594EC}']"
               s:ds="{2AE651AB-7ACF-4FD2-8AAD-993045583D67}"
               s:id="{5D35C31F-0770-4498-BAB8-C88BEF41F153}"
-              s:par="ItemsShown=6"
-              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_d128e236-450b-4df2-b076-223abaa55353/col-huge_b48345d3-e8bf-4e2f-bfdd-4398c5f594ec" />
+              s:par="Align=Center&amp;ItemsShown=6"
+              s:ph="/page-layout/section_a3ca17ff-693c-46f1-87aa-b8c1833f1890/col-huge_d128e236-450b-4df2-b076-223abaa55353/col-huge_b48345d3-e8bf-4e2f-bfdd-4398c5f594ec">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{DD334BBF-CB5D-48C7-8626-DA37B1580183}"
+                    s:name="Social Camapign">
+                    <conditions>
+                      <condition
+                        uid="01BF2E15465745C2833C39049945AFB6"
+                        s:id="{370016EC-495B-4372-8EEF-6AD385D32D68}"
+                        s:CampaignId="{4250403D-89FF-4775-887C-BFA6C21F8000}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="841743E9BFE94B0696492DEC157A17F2"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="{349287CD-182C-4F2F-80B8-62A8B62CC57E}" />
+                      <action
+                        uid="420F277D122445098AC51CD52336DCCC"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{94AA4402-F3D9-4690-B7B8-A078CB412EB3}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="9E143E1D0E3E480299CF1C75AD3F5F85"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{0F43A3B5-7236-40E6-B86E-5A52B75BBD8B}"
               p:after="r[@uid='{88558DBE-63D1-444E-A276-DF79801BAF7E}']"
@@ -145,23 +360,101 @@ Languages:
               <rls>
                 <ruleset>
                   <rule
-                    uid="{C774A194-CD9D-4FEE-AC57-F84E52E51331}"
-                    s:name="Visited the Getting Started page">
+                    uid="{0DA778D4-0D5A-403B-9BB0-B14B62BFC891}"
+                    s:name="Brother">
+                    <actions>
+                      <action
+                        uid="2EAB89BC6B5A4D959F4D40303D7EB390"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{E273BE68-9DBC-420F-9DE9-4420F2DD0044}" />
+                    </actions>
                     <conditions>
                       <condition
-                        uid="AFC324E0AD4E43159698A165ABCC9AD1"
-                        s:id="{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}"
-                        s:PageId="{C9AA3B8F-5638-4360-AFAD-416D1A6D82B1}" />
+                        uid="23DD059052994716ADD77C771775FFE0"
+                        s:id="{370016EC-495B-4372-8EEF-6AD385D32D68}"
+                        s:CampaignId="{4250403D-89FF-4775-887C-BFA6C21F8000}" />
+                    </conditions>
+                  </rule>
+                  <rule
+                    uid="{21394367-B4D8-4C5E-B487-08BA192CFE4E}"
+                    s:name="Social Media">
+                    <conditions>
+                      <condition
+                        uid="4A9CDFA5B68C45A49F241E98AD50F9E8"
+                        s:id="{4D290FF3-1587-4FEE-AB37-88768766A9D9}"
+                        s:GoalId="{03386D65-816F-4C5E-B957-8B4E3A2FF3AB}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="6FE25CD5D8394464B5EBA435451BB758"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="{A9B002E1-963F-4F35-B6DB-14A8D4BF171A}" />
+                      <action
+                        uid="9623E9B0554E45B1ABBAFA0AB42919CF"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{58010EE7-ABF5-4C41-AE48-4B70EB140F78}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{A8A76314-FB80-4991-BEB0-9BD89F29E263}"
+                    s:name="Brother Business">
+                    <actions>
+                      <action
+                        uid="D75FAF5B371B4388A25CA5E2269F715C"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="{A9B002E1-963F-4F35-B6DB-14A8D4BF171A}" />
+                      <action
+                        uid="8454336AB5494A1A91BFB89762A995A5"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{2B7B061B-7238-49AA-BC18-0CBCD959B637}" />
+                    </actions>
+                    <conditions>
+                      <condition
+                        uid="FA9C9D7ED8C9419098C76AEA613D990B"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Business" />
+                    </conditions>
+                  </rule>
+                  <rule
+                    uid="{B9BA08EF-650A-4406-A9D6-DC9ED371FCCA}"
+                    s:name="Brother Supplies">
+                    <actions>
+                      <action
+                        uid="4237E6F3EBF744F9AB7F976F817E059A"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="{A9B002E1-963F-4F35-B6DB-14A8D4BF171A}" />
+                      <action
+                        uid="CF72E2DA9209427D90D9B46CAC42A958"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{9ABD55A4-E1D0-4C6A-AD79-04133183E1D7}" />
+                    </actions>
+                    <conditions>
+                      <condition
+                        uid="B57DCAE1E5874726A47A84A4A6E9387A"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="BrotherProfiles"
+                        s:PatternName="Supplies" />
+                    </conditions>
+                  </rule>
+                  <rule
+                    uid="{C774A194-CD9D-4FEE-AC57-F84E52E51331}"
+                    s:name="Printers">
+                    <conditions>
+                      <condition
+                        uid="2E6ED169983B414CAFDADE445B714FCB"
+                        s:id="{D379525C-4DE6-4738-89ED-60CC0B8F91E5}"
+                        s:CampaignId="{23BB95F8-B8CA-47CD-89D1-8F556EA018E2}" />
                     </conditions>
                     <actions>
                       <action
                         uid="B5D216F82DA140EA958E00C5C2D57CD9"
                         s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
-                        s:RenderingItem="{A9B002E1-963F-4F35-B6DB-14A8D4BF171A}" />
+                        s:RenderingItem="{8B28417B-A5B3-44F1-BFCC-FE1D907336E7}" />
                       <action
                         uid="D91C795678344172ADC026FFC093963D"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="{E0C99DD1-359F-41CD-81BE-349CCC85BF1E}" />
+                        s:DataSource="{10BE4D26-A3EA-4BA1-8CD1-F9FF0DC9F117}" />
                     </actions>
                   </rule>
                   <rule
@@ -180,11 +473,13 @@ Languages:
             <r
               uid="{A3CA17FF-693C-46F1-87AA-B8C1833F1890}"
               s:ds=""
-              s:par="Background={95168A34-A297-43FC-9FE3-76F32800EBF8}&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames" />
+              s:par="" />
             <r
               uid="{FCCEC637-FA4F-48C7-A1E1-D8D6BDCBFE85}"
               p:after="r[@uid='{A3CA17FF-693C-46F1-87AA-B8C1833F1890}']"
+              s:ds=""
               s:id="{D201A487-5099-48A1-8189-55944F70C6CB}"
+              s:par="Background={95168A34-A297-43FC-9FE3-76F32800EBF8}"
               s:ph="page-layout" />
             <r
               uid="{47F5A079-6F63-4219-BC45-1A221B200906}">

@@ -4,6 +4,30 @@ Parent: "fb1e4810-6d89-4f1e-a47b-70478fe32da7"
 Template: "390333c8-751b-4332-84a3-6360b969a19f"
 Path: /sitecore/content/Habitat/Global/Links/Footer Menu/Left/Documentation
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: da
   Versions:

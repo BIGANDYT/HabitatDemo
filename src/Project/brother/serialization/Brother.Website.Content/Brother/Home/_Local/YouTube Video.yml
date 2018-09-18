@@ -1,0 +1,25 @@
+﻿---
+ID: "94aa4402-f3d9-4690-b7b8-a078cb412eb3"
+Parent: "5586f9ab-be9f-49bc-94f0-9e841429cb95"
+Template: "f1c095e2-b3e0-46d0-b838-02a9e8b880d9"
+Path: /sitecore/content/Brother/Home/_Local/YouTube Video
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T085738Z
+    - ID: "2628705d-9434-4448-978c-c3bf166fa1eb"
+      Hint: MediaVideoLink
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/embed/7x6a1moK06c?autoplay=1&amp;mute=1&amp;enablejsapi=1" anchor="" target="" />
+    - ID: "4ff62b0a-d73b-4436-bea2-023154f2ffc4"
+      Hint: MediaThumbnail
+      Value: |
+        <image mediaid="{64CAD7A0-82DA-4A4D-8503-93909FC7938D}" />
+    - ID: "63dda48b-b0cb-45a7-9a1b-b26ddb41009b"
+      Hint: MediaTitle
+      Value: Brother Earth

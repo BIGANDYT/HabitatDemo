@@ -1,0 +1,37 @@
+﻿---
+ID: "ac5686a0-d879-4a74-a897-6d109679c7cb"
+Parent: "7a98be60-9f59-4064-82c2-58da63562fa5"
+Template: "7a98be60-9f59-4064-82c2-58da63562fa5"
+Path: /sitecore/templates/Foundation/Multisite/Datasource Settings Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20180917T125813:636727858938432089Z"

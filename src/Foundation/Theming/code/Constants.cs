@@ -1,29 +1,30 @@
 ﻿namespace Sitecore.Foundation.Theming
 {
-  public struct Constants
-  {
-    public struct HasContainerLayoutParameters
+    public struct Constants
     {
-      public static string IsFluid => "ContainerIsFluid";
-    }
+        public struct HasContainerLayoutParameters
+        {
+            public static string IsFluid => "ContainerIsFluid";
+        }
 
-    public struct BackgroundLayoutParameters
-    {
-      public static string Background => "Background";
-    }
+        public struct BackgroundLayoutParameters
+        {
+            public static string Background => "Background";
+        }
 
-    public struct IsFixedHeightLayoutParameters
-    {
-      public static string FixedHeight => "Fixed height";
+        public struct IsFixedHeightLayoutParameters
+        {
+            public static string FixedHeight => "FixedHeight";
 
-      public static string Height => "Height";
-    }
+            public static string Height => "Height";
+        }
 
-    public struct CarouselLayoutParameters
-    {
-      public static string ItemsShown => "ItemsShown";
-      public static string Autoplay => "Autoplay";
-      public static string ShowNavigation => "ShowNavigation";
+        public struct CarouselLayoutParameters
+        {
+            public static string ItemsShown => "ItemsShown";
+            public static string Autoplay => "Autoplay";
+            public static string ShowNavigation => "ShowNavigation";
+            public static string Align => "Align";
+        }
     }
-  }
 }

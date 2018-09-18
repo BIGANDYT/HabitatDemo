@@ -5,6 +5,10 @@ Template: "8ee208f9-a6a6-41e2-88a0-c188737a178c"
 Path: /sitecore/content/Brother/Home/Business Solutions
 DB: master
 SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: "-125"

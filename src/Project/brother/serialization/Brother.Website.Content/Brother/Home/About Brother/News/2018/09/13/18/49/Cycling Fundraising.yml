@@ -1,0 +1,94 @@
+﻿---
+ID: "9bd698a2-7906-400d-b6ff-d2a154d7d7ec"
+Parent: "e5425c40-5532-4c53-9d9e-adee0d393d56"
+Template: "b69277ad-e917-4b9f-9136-a12e0a3e462f"
+Path: /sitecore/content/Brother/Home/About Brother/News/2018/09/13/18/49/Cycling Fundraising
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20180831T194300Z
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brother MD gears up for tour of Britain challenge
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180913T184951Z
+    - ID: "3437eaac-6ee8-460b-a33d-da1f714b5a93"
+      Hint: NewsImage
+      Value: |
+        <image mediaid="{78F1F1F8-CC3C-4AB4-B181-BB3C9BACD9ED}" alt="" height="210" width="360" hspace="" vspace="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: |
+        Our managing director, Phil Jones, and world record holder, James Golding, will be the first riders to complete this year&rsquo;s OVO Energy Tour of Britain, as they take on the route one day ahead of the elite professionals in a bid to raise &pound;50,000 for the future of the sport.&nbsp;<br />
+        <br />
+        Phil has teamed up with James, holder of the world record for the furthest distance cycled in seven days, to cycle the 1,136km route in a bid to raise money for the Dave Rayner Fund, a trust set up to help promising riders fulfil their potential as professional cyclists.&nbsp;<br />
+        <br />
+        Departing from Pembrey Park at 9am on Saturday 1st September, the pair will ride the first seven stages of the route over consecutive days, before completing the final stage in London on Sunday 9th September &ndash; the same day the elite cyclists will cross the finish line.&nbsp;<br />
+        <br />
+        Phil Jones, pioneer of the fundraising project, said: &ldquo;The recent Tour de France victory of Geraint Thomas has helped to shine a spotlight on cycling and show people across the country what talent we have here in the UK.&nbsp;<br />
+        <br />
+        &ldquo;What&rsquo;s not always recognised is how challenging it is to become a professional in the sport, particularly for those who don&rsquo;t have the financial backing or are not part of the elite programme of British Cycling backed by Sport England. The Dave Rayner Fund helps to overcome this by providing promising cyclists with the funding they need to make it professionally, helping to ensure British cycling continues to thrive outside of the Olympic programme.&nbsp;<br />
+        <br />
+        &ldquo;If we can get 10,000 people to donate just &pound;5 then we&rsquo;ll have hit our &pound;50,000 target. We know it&rsquo;s a big ask but considering 800,000 viewers tuned in to watch the race every day last year and hundreds of thousands will be by the roadside, it&rsquo;s definitely achievable if we all pull together for the future of the sport.&rdquo;&nbsp;<br />
+        <br />
+        James Golding not only holds a world record but has also taken on many challenges to raise millions of pounds for charities including Macmillan Cancer Support, after twice beating cancer himself.&nbsp;<br />
+        <br />
+        James said: &ldquo;I&rsquo;ve certainly taken on some major challenges over the years and this is up there with the toughest. This is different to most of my recent challenges, there&rsquo;s a lot of transfers, a lot of moving around and every day is a different location.&nbsp; Both Phil and I have trained very hard for this. There&rsquo;s no doubt it will be a challenging week, but it&rsquo;s something we&rsquo;re both very passionate about and that will get us through. Not only does it help to keep us active and push our boundaries, it&rsquo;s something we&rsquo;ll be able to look back on with great pride in years to come.&rdquo;&nbsp;<br />
+        <br />
+        Phil and James will be joined by a range of guest riders along the route including former Welsh rugby captain Ryan Jones, GB para cyclist, veteran and adventurer Jaco Van Gass, plus members of the many professional teams that Brother UK support.&nbsp;&nbsp;<br />
+        <br />
+        Mick Bennett, Race Director for Tour of Britain, said: &ldquo;The Dave Rayner Fund has enabled some of this country&rsquo;s most promising talents to further their careers and reach the very highest levels of the sport, so it is a cause that we whole heartedly support.&nbsp;<br />
+        <br />
+        &ldquo;We would encourage all the fans of the OVO Energy Tour of Britain to get behind Phil and James&rsquo; challenge, whether by looking out for them and cheering them on over the eight days, or by donating to their fundraising efforts to help them reach their target.&rdquo;&nbsp;<br />
+        <br />
+        The Dave Rayner Fund was set up in 1995 in memory of former English professional cyclist Dave Rayner, and has supported over 250 riders since then, including David Millar (retired), Charly Wegelius (retired), Hannah Barnes (Canyon SRAM), Tao Geoghegan Hart (Team Sky), Abby Mae Parkinson (Drops Cycling), Ian Stannard (Team Sky), Dan McLay (EF Education First -Drapac), Dan Martin (UAE Team Emirates) and Adam Yates (Mitchelton-Scott).&nbsp;<br />
+        <br />
+        The UK&rsquo;s No.1 Alcohol-free wine Brand, Eisberg, is the title sponsor for Phil and James&rsquo; challenge, which has been named #TOB1DA.&nbsp;<br />
+        <br />
+        Show your support for #TOB1DA and donate via their JustGiving page here: https://www.justgiving.com/crowdfunding/TOB1DA&nbsp;<br />
+        <br />
+        Follow Phil and James&rsquo; journey on Twitter: @roadphil #TOB1DA
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: Brother MD gears up for tour of Britain challenge
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: Fundraising
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: News Article

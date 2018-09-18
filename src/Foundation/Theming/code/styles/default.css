@@ -11036,9 +11036,8 @@ footer .nav-service li a {
     padding-top: 80px; }
   .section.section-full, section.section-full {
     width: 100%; }
-.section.bg-dark .jumbotron, .section.bg-white, jumbotron, .section.bg-media .jumbotron, .section.bg-primary .jumbotron, section.bg-dark .jumbotron, section.bg-white .jumbotron, section.bg-media .jumbotron, section.bg-primary .jumbotron {
-    background-color: transparent;
-}
+  .section.bg-dark .jumbotron, .section.bg-white .jumbotron, .section.bg-media .jumbotron, .section.bg-primary .jumbotron, section.bg-dark .jumbotron, section.bg-white .jumbotron, section.bg-media .jumbotron, section.bg-primary .jumbotron {
+    background-color: transparent; }
 
 .template-show-grid .container {
   height: 100%; }

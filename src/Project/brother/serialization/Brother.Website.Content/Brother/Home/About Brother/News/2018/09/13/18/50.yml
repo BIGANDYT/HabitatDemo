@@ -1,0 +1,14 @@
+﻿---
+ID: "898cf40a-39e3-4ee0-92a5-fd11cac675e0"
+Parent: "582e9e83-2e38-47df-a49b-5ba97fada532"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Brother/Home/About Brother/News/2018/09/13/18/50
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180913T185003Z

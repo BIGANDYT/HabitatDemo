@@ -1,13 +1,13 @@
 ﻿---
-ID: "ac027f8e-6948-4a63-aee1-46aa917575d4"
+ID: "f3e76a22-79cf-4f09-844e-1432fc4593cc"
 Parent: "ffbd2e89-3b38-47eb-884d-859b9ffdabb7"
-Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
+Template: "a99866e5-08e7-44d8-8a52-f8e26bcd3714"
 Path: /sitecore/content/Brother/Home/About Brother/News
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 50
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -18,14 +18,4 @@ Languages:
       Value: News
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20180910T222137Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\Admin
-    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
-      Hint: Title
-      Value: News
-    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
-      Hint: BrowserTitle
-      Value: News
+      Value: 20180913T184837Z

@@ -40,33 +40,23 @@ SharedFields:
   Type: Tracking
   Value: |
     <tracking>
-      <event
-        name="Submit Success Event"
-        id="{2FF08489-2A47-4F04-8D8E-0C25A294B2C4}" />
-      <event
-        name="Form Submit"
-        id="{A2C2CF51-9360-4084-9BA0-1A15F1A41096}" />
-      <event
-        name="Field Completed"
-        id="{F0113A93-570A-4F69-8C7C-BA08037D1E34}" />
-      <event
-        name="Field Not Completed"
-        id="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" />
-      <event
-        name="Field Out of Boundary"
-        id="{F3D7B20C-675C-4707-84CC-5E5B4481B0EE}" />
-      <event
-        name="Form Check Action Error"
-        id="{7144C4C9-E56A-4529-B3C1-A1DEDC454AB8}" />
-      <event
-        name="Form Save Action Failure"
-        id="{DE302E25-E5AF-465E-8BB1-5C3E8145615D}" />
-      <event
-        name="Invalid Field Syntax"
-        id="{844BBD40-91F6-42CE-8823-5EA4D089ECA2}" />
-      <event
-        name="Newsletter Signup"
-        id="{1779CC42-EF7A-4C58-BF19-FA85D30755C9}" />
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
     </tracking>
 - ID: "faeacd39-b059-4f46-bec4-74ba468a97b8"
   Hint: Show Footer

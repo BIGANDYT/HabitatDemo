@@ -4,6 +4,30 @@ Parent: "e0a0e113-cc4e-49a6-89aa-8c88f62eb8b0"
 Template: "18cdd4ce-cdbe-4bdc-9d5a-6249f7f0ec17"
 Path: /sitecore/system/Settings/Feature/Metadata/Habitat/sitecore
 DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 Languages:
 - Language: en
   Versions:

@@ -5,6 +5,29 @@ Template: "c82dc5ff-09ef-4403-96d3-3caf377b8c5b"
 Path: /sitecore/content/Brother/Settings/Datasources/pageteaser
 DB: master
 SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
+        <key
+          name="Business"
+          value="5" />
+        <key
+          name="Products"
+          value="2" />
+        <key
+          name="Supplies"
+          value="1" />
+        <key
+          name="Support"
+          value="1" />
+      </profile>
+    </tracking>
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1800
@@ -18,14 +41,14 @@ Languages:
       Value: 20160112T103432Z
     - ID: "498dd5b6-7dae-44a7-9213-1d32596ad14f"
       Hint: DatasourceTemplate
-      Value: /sitecore/templates/Feature/PageContent/_HasPageContent
+      Value: /sitecore/templates/Project/Common/Content Types/Teasers/Teaser
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "5fe1cc43-f86c-459c-a379-cd75950d85af"
       Hint: DatasourceLocation
-      Value: "{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}"
+      Value: /sitecore/content/Brother/Global/Teasers
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

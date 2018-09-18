@@ -15,21 +15,21 @@ SharedFields:
   Value: |
     <tracking>
       <profile
-        id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}"
-        name="Focus"
-        presets="konstantin|100||">
+        id="{00979BCE-14A9-4E1C-AA93-969982D2B65A}"
+        name="Site Interest"
+        presets="mark|100||">
         <key
-          name="Background"
-          value="9" />
+          name="Business"
+          value="5" />
         <key
-          name="Practical"
-          value="8" />
+          name="Products"
+          value="2" />
         <key
-          name="Process"
-          value="7" />
+          name="Supplies"
+          value="1" />
         <key
-          name="Scope"
-          value="3" />
+          name="Support"
+          value="1" />
       </profile>
     </tracking>
 Languages:
